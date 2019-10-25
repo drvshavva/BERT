@@ -1,0 +1,4 @@
+[('bir', 11), ('var', 5), ('ne', 3), ('sen', 2), ('ben', 2), ('sunu', 2), ('o', 2), 
+('musun', 2), ('bu', 2), ('de', 2), ('mi', 1), ('su', 1), ('daha', 1), 
+('hayir', 1), ('siz', 1), ('merak', 1), ('sey', 1), ('senin', 1),
+ ('dilerim', 1), ('haydi', 1), ('iyi', 1), ('hic', 1)]
